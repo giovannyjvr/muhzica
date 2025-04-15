@@ -1,0 +1,35 @@
+set tempo 100;
+
+# Base do tamborzão
+loop 4 {
+    play Glo 4;
+    play Glo 4;
+    play Eme 4;
+    play Glo 4;
+    play Glo 4;
+    play Clo 4;
+}
+
+# Tema principal
+play Ema 4;
+play Glo 4;
+play Ema 4;
+play Clo 4;
+
+play Dma 4;
+play Fma 4;
+play Ema 4;
+play Clo 4;
+
+loop 2 {
+    play Ama 4;
+    play Gme 4;
+    play Ama 4;
+    play Eme 4;
+}
+
+# Final do tema
+play Clo 4;
+play Ema 4;
+play Gma 4;
+play Fma 4;

@@ -1,0 +1,32 @@
+set tempo 150;
+
+# Abertura
+play Gma 4;
+play Dma 4;
+play Gma 4;
+play Dma 4;
+
+play Eme 4;
+play Ama 4;
+play Dma 4;
+play Gma 4;
+
+# Continuação do tema
+loop 2 {
+    play Gma 4;
+    play Clo 4;
+    play Dma 4;
+    play Ema 4;
+
+    play Ama 4;
+    play Gma 4;
+    play Fma 4;
+    play Gma 4;
+}
+
+# Encerramento
+play Gma 4;
+play Ama 4;
+play Dma 4;
+play Clo 4;
+play Gma 4;
